@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Welcome to my portfolio
 ---
-
+Asant Finley
+Dallas, TX
+asantifinley@yahoo.com
